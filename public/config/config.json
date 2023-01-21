@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd64303c8fcE3254129Ffd6854B01Ae0241C07BFc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd64303c8fce3254129ffd6854b01ae0241c07bfc",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "Rap Headz NFTs",
+  "SYMBOL": "RAPHDZ",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea.io",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rapheadz-nft-v3",
+  "SHOW_BACKGROUND": true
+}
